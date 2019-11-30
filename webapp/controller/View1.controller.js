@@ -4,6 +4,6 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("sampleApplication2.sampleApplication2.controller.View1", {
-
+var a =5;
 	});
 });
